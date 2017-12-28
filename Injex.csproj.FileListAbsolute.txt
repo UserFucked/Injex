@@ -1,0 +1,11 @@
+C:\Users\jaghe\source\repos\Injex\Injex\bin\Debug\Injex.exe.config
+C:\Users\jaghe\source\repos\Injex\Injex\bin\Debug\Injex.exe
+C:\Users\jaghe\source\repos\Injex\Injex\bin\Debug\Injex.pdb
+C:\Users\jaghe\source\repos\Injex\Injex\bin\Debug\FlatUI.dll
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.csprojResolveAssemblyReference.cache
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.Properties.Resources.resources
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.csproj.GenerateResource.Cache
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.csproj.CoreCompileInputs.cache
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.exe
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.pdb
+C:\Users\jaghe\source\repos\Injex\Injex\obj\Debug\Injex.Injex.resources
